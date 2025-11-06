@@ -17,3 +17,5 @@ Suggests:
 VignetteBuilder: knitr
 Imports: 
     dplyr
+URL: https://github.com/hadley/genzplyr
+BugReports: https://github.com/hadley/genzplyr/issues
